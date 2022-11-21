@@ -1,4 +1,4 @@
-# My MicroPython Projects
+# My DigiXbee Zigbee 3 Projects
 -----------------------------------
 
 Why micro python?
